@@ -10,3 +10,9 @@ The database name you are specifying here needs to be unique throughout the MySQ
 Second, optionally you can specify IF NOT EXIST which ensures that if the database already exist MySQL will not throw any error.
 
 Third, optionally you can specify the character set and collation for the database. If not specify MySQL database will be created with default character set and collation.
+
+
+You can create a database in MySQL in two methods:
+
+Using MySQL Command Line Client
+Using MySQL Workbench
