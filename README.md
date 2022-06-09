@@ -1,3 +1,1 @@
-CREATE DATABASE [IF NOT EXISTS] database_name
-[CHARACTER SET charset_name]
-[COLLATE collation_name]
+Creating a database with MySQL 
