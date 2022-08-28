@@ -1,8 +1,8 @@
 To create a new database in MySQL, you use the "CREATE DATABASE" statement with the following syntax
 
 CREATE DATABASE [IF NOT EXISTS] database_name
-[CHARACTER SET charset_name]
-[COLLATE collation_name]
+[CHARACTER SET charset_name].
+[COLLATE collation_name].
 
 First, you need to specify the database name which needs to be created after the CREATE DATABASE keywords.
 The database name you are specifying here needs to be unique throughout the MySQL server instance. If the database name already exists, MySQL will give an error.
